@@ -11,7 +11,7 @@ I'm a **Software Developer** based in **Nairobi, Kenya**, passionate about build
 
 -   📍 **Location:** Nairobi, Kenya
 -   🌐 **Website:** [mburunkonge.netlify.app/](https://mburunkonge.netlify.app/)
--   🏛️ **Organizations:** Worked with[@JamboPay], [@Agri-Soko](https://github.com/Agri-Soko) and [@Girwa-Foundation](https://github.com/Girwa-Foundation).
+-   🏛️ **Organizations:** Worked with JamboPay, [@Agri-Soko](https://github.com/Agri-Soko) and [@Girwa-Foundation](https://github.com/Girwa-Foundation).
 -   🌱 I'm a strong advocate for clean code, robust architecture, and continuous learning.
 
 ---
