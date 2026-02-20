@@ -22,7 +22,7 @@ I have experience across a variety of languages, frameworks, and tools, with a s
 
 | Category | Key Technologies & Skills |
 | :--- | :--- |
-| **Backend Languages** | Python (Django, DRF), C++ |
+| **Backend Languages** | Python (Django, DRF, FAST API, Flask), C++ |
 | **Cloud & DevOps** | AWS, Terraform, Microservices Architecture |
 | **Frontend** | JavaScript, TypeScript |
 | **Databases & Tools** | Postgresql| Shell Scripting (Bash), API Development |
