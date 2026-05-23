@@ -7,11 +7,11 @@
 
 ## 👨‍💻 About Me
 
-I'm a **Software Developer** based in **Nairobi, Kenya**, passionate about building scalable, efficient, and impactful solutions. I primarily focus on **Backend Development** and **Cloud Infrastructure**, leveraging modern technologies to solve real-world problems. Looking to pivot into **Automotive Software** Engineering in the future.
+I'm a **Software Developer** based in **Nairobi, Kenya**, passionate about building scalable, efficient, and impactful solutions. I primarily focus on **Backend Development** and **Cloud Infrastructure**, leveraging modern technologies to solve real-world problems. Looking to pivot into **Automotive Software Engineering** in the future.
 
 -   📍 **Location:** Nairobi, Kenya
 -   🌐 **Website:** [mburunkonge.netlify.app/](https://mburunkonge.netlify.app/)
--   🏛️ **Organizations:** Worked with JamboPay,[@Girwa-Foundation](https://github.com/Girwa-Foundation), Dubu Huru Ltd, Universities Fund.
+-   🏛️ **Organizations:** Worked with **JamboPay,Girwa-Foundation, Dubu Huru Ltd, Universities Fund**.
 -   🌱 I'm a strong advocate for AI, scalable applications, robust architecture, and continuous learning.
 
 ---
@@ -22,8 +22,8 @@ I have experience across a variety of languages, frameworks, and tools, with a s
 
 | Category | Key Technologies & Skills |
 | :--- | :--- |
-| **Backend Languages** | Python (Django, DRF, FAST API, Flask), C++ |
-| **Cloud & DevOps** | AWS, Terraform, Microservices Architecture |
+| **Backend Languages** | Python (Django, DRF, Fast API, Flask), C++ , Java |
+| **Cloud & DevOps** | AWS, Terraform, Microservices Architecture, Kubernetes |
 | **Frontend** |React, JavaScript, TypeScript |
 | **Databases & Tools** | Postgresql| Shell Scripting (Bash), API Development |
 
