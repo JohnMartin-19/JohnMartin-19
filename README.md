@@ -1,11 +1,11 @@
-# Hi, I'm John Martin Mburu! 👋
+# Welcome to my humble hub, I'm John Martin Mburu! 
 
 [![LinkedIn Badge](https://img.shields.io/badge/-John%20Martin%20Mburu-blue?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/johnmartin-mburu/)](https://www.linkedin.com/in/johnmartin-mburu/)
 [![Portfolio Badge](https://img.shields.io/badge/-Portfolio-orange?style=flat-square&logo=netlify&logoColor=white&link=https://mburunkonge.netlify.app/)](https://mburunkonge.netlify.app/)
 
 ---
 
-## 👨‍💻 About Me
+##  About Me
 
 I'm a **Software Developer** based in **Nairobi, Kenya**, passionate about building scalable, efficient, and impactful solutions. I primarily focus on **Backend Development** and **Cloud Infrastructure**, leveraging modern technologies to solve real-world problems. Looking to pivot into **Automotive Software Engineering** in the future.
 
