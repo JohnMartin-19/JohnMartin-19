@@ -11,25 +11,25 @@ I'm a **Software Developer** based in **Nairobi, Kenya**, passionate about build
 
 -   📍 **Location:** Nairobi, Kenya
 -   🌐 **Website:** [mburunkonge.netlify.app/](https://mburunkonge.netlify.app/)
--   🏛️ **Organizations:** Worked with **JamboPay,Girwa-Foundation, Dubu Huru Ltd, Universities Fund**.
+-   🏛️ **Organizations:** Worked with **JamboPay,Girwa-Foundation, Dubu Huru Ltd, Universities Fund, Caava Group**.
 -   🌱 I'm a strong advocate for AI, scalable applications, robust architecture, and continuous learning.
 
 ---
 
-## 🛠️ My Tech Stack
+##  My Tech Stack
 
 I have experience across a variety of languages, frameworks, and tools, with a strong focus on the backend and cloud.
 
 | Category | Key Technologies & Skills |
 | :--- | :--- |
-| **Backend Languages** | Python (Django, DRF, Fast API, Flask), C++ , Java |
+| **Backend Languages** | Java(SpringBoot), Python (Django, DRF, Fast API, Flask), C++  |
 | **Cloud & DevOps** | AWS, Terraform, Microservices Architecture, Kubernetes |
 | **Frontend** |React, JavaScript, TypeScript |
 | **Databases & Tools** | Postgresql| Shell Scripting (Bash), API Development |
 
 ---
 
-## ✨ Featured Projects
+##  Featured Projects
 
 Here are a few projects that showcase my capabilities:
 
@@ -43,7 +43,7 @@ Here are a few projects that showcase my capabilities:
 
 ---
 
-## 🚀 Let's Connect!
+##  Let's Connect!
 
 I'm always open to discussing new opportunities, interesting projects, or just chatting about technology. Feel free to reach out!
 
